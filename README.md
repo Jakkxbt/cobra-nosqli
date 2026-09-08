@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="CobraSEC · Red Arsenal · nosqli" width="100%">
+</p>
+
 # nosqli
 
 Dependency-free, evidence-gated NoSQL injection scanner for systems you are authorized to test.
